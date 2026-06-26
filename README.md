@@ -14,30 +14,6 @@ An interactive daily timetable tracker covering **July 30, 2026 to January 1, 20
 - **Editable schedule** — rename tasks, change timings, swap categories, add or delete blocks
 - **Clean white theme** — light, minimal UI with indigo accents and colour-coded categories
 
----
-
-## Default Schedule
-
-| Time | Task | Category |
-|------|------|----------|
-| 5:00 - 6:00 AM | Running | Fitness |
-| 6:00 - 6:20 AM | Freshen Up | Break |
-| 6:20 - 6:35 AM | Breakfast | Meal |
-| 6:35 - 9:35 AM | Class 1 | Class |
-| 9:35 - 9:40 AM | Short Break | Break |
-| 9:40 - 11:40 AM | DSA | DSA |
-| 11:40 AM - 12:05 PM | Lunch | Meal |
-| 12:05 - 3:05 PM | Class 2 | Class |
-| 3:05 - 3:10 PM | Short Break | Break |
-| 3:10 - 4:10 PM | Project Work | Project |
-| 4:10 - 4:20 PM | Travel to Gym | Break |
-| 4:20 - 6:20 PM | Gym | Fitness |
-| 6:20 - 6:30 PM | Shower | Break |
-| 6:30 - 7:00 PM | Dinner | Meal |
-| 7:00 PM - 5:00 AM | Sleep | Sleep |
-
----
-
 ## How to Use
 
 ### Tracking a Day
